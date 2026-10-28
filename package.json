@@ -1,0 +1,16 @@
+{
+  "name": "crudapp-be",
+  "version": "1.0.0",
+  "description": "Mock REST API backend using JSON Server for Book Management System",
+  "main": "db.json",
+  "scripts": {
+    "start": "json-server db.json --port 5000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}

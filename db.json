@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self-Help",
+      "isbn": "978-0735211292",
+      "price": 18.99,
+      "rating": 4.9,
+      "publishedYear": 2018,
+      "coverImage": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80&w=600",
+      "description": "An easy & proven way to build good habits and break bad ones. Learn tiny changes that yield remarkable results in health, career, and personal life."
+    },
+    {
+      "id": "2",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Technology",
+      "isbn": "978-0132350884",
+      "price": 34.50,
+      "rating": 4.7,
+      "publishedYear": 2008,
+      "coverImage": "https://images.unsplash.com/photo-1532012164546-f432f2e3777a?auto=format&fit=crop&q=80&w=600",
+      "description": "A handbook of agile software craftsmanship outlining principles, patterns, and practices of writing clean, maintainable, and readable code."
+    },
+    {
+      "id": "3",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Classic Literature",
+      "isbn": "978-0743273565",
+      "price": 12.99,
+      "rating": 4.5,
+      "publishedYear": 1925,
+      "coverImage": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=600",
+      "description": "A classic story of the Jazz Age, exploring themes of ambition, love, wealth, and the illusions of the American Dream in 1920s Long Island."
+    },
+    {
+      "id": "4",
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "category": "History",
+      "isbn": "978-0062316097",
+      "price": 22.00,
+      "rating": 4.8,
+      "publishedYear": 2014,
+      "coverImage": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80&w=600",
+      "description": "Explores how biology and history have defined us and enhanced our understanding of what it means to be human from the Stone Age to modern society."
+    },
+    {
+      "id": "5",
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas, Andrew Hunt",
+      "category": "Technology",
+      "isbn": "978-0135957059",
+      "price": 39.99,
+      "rating": 4.8,
+      "publishedYear": 2019,
+      "coverImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&q=80&w=600",
+      "description": "Straight from the programming trenches, this book cuts through the increasing specialization and technicalities of modern software development."
+    }
+  ]
+}
